@@ -1,4 +1,6 @@
 <?php
-echo 'Hello World!';
+var $name = 'Jordi';
+echo 'Hello '+$name;
+
 
 ?>
